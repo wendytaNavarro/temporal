@@ -1,5 +1,9 @@
 # Encabezado nivel 1
-## Encabezado nivel 2
+
+otro encabezado de nivel 1
+==========================
+encabezado 2
+------------
 
 
 
