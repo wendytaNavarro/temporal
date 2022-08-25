@@ -45,15 +45,15 @@ Socrates
 
 **Lista numerada**
 
-1.primer elemento  
-2.segundo elemento  
-3.tercer elemento  
+1. primer elemento  
+2. segundo elemento  
+3. tercer elemento  
 
 **Lista no mnumerada**
 
--un elemento  
-    -mas elementos  
-    -mas eñementos  
-    -mas elementos  
--otro elemento  
--otro elemento mas  
+- un elemento  
+    - mas elementos  
+    - mas eñementos  
+    - mas elementos  
+- otro elemento  
+- otro elemento mas  
