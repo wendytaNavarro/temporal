@@ -24,3 +24,6 @@ otra linea.
 
 otra linea mas. <br>
 y otra linea mas.
+
+**texto en negrita**
+__otro texto en negrita__
