@@ -77,7 +77,9 @@ Socrates
 <img src="1920px-Yamato_during_Trial_Service.jpg" width="200" height="100">  
 
 
+**imagene en servidor remoto**
 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Yamato_during_Trial_Service.jpg/1920px-Yamato_during_Trial_Service.jpg)
 
 
 
