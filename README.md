@@ -20,7 +20,7 @@ Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia
 In fringilla mollis orci, non lacinia risus. Mauris nec libero ac eros suscipit faucibus. Cras condimentum libero placerat condimentum consequat. Donec eu lacus augue. Donec ut cursus elit, eu aliquam velit. Vestibulum sed est dui. Vestibulum id odio erat. Fusce eu neque a leo rutrum aliquam.
 
 *texto en italica*  
-_texto en italica_
+_otro texto en italica_
 
 una linea.  
 otra linea.
@@ -31,6 +31,6 @@ y otra linea mas.
 **texto en negrita**  
 __otro texto en negrita__
 
-
+*** texto en negrita e italica***
 
 
