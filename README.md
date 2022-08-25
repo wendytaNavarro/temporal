@@ -39,5 +39,18 @@ __otro texto en negrita__
 Socrates
 
 
-> "*En un lugae de la mancha de cuyo nombre no quiero recordarme*"
+> "*En un lugar de la mancha de cuyo nombre no quiero recordarme*"
 
+
+
+**Lista numerada**
+
+1.primer elemento
+2.segundo elemento
+3.tercer elemento
+
+**Lista no mnumerada**
+
+-un elemento
+-otro elemento
+-otro elemento mas
