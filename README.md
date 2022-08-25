@@ -73,8 +73,8 @@ Socrates
 
 
 
-
-
+**imagen en sintaxis HTML**
+<img src="1920px-Yamato_during_Trial_Service.jpg" width="200" height="100">  
 
 
 
