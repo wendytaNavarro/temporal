@@ -31,6 +31,7 @@ y otra linea mas.
 **texto en negrita**  
 __otro texto en negrita__
 
-*** texto en negrita e italica***
+***texto en negrita e italica***
+**_otro texto en negrita y en italica_**
 
 
